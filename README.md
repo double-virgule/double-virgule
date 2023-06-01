@@ -6,11 +6,11 @@ You should probably find something else to help you on your coding journey.
 
 Do you want to go:
 
-#### Search in the Woods of Bad Code 🌳 
+#### [Search in the Woods of Bad Code](https://github.com/double-virgule/double-virgule/blob/3adeadfde45a97c3f42c3de054b7422d6ab7cac1/WoodsOfBadCode.md) 🌳 
 
 Or do you think you can find something better in the: 
 
-#### Ocean of Way Too Many Variables 🌊
+#### [Ocean of Way Too Many Variables](https://github.com/double-virgule/double-virgule/blob/3adeadfde45a97c3f42c3de054b7422d6ab7cac1/OceanofTooManyVariables.readme) 🌊
 
 <!--
 **double-virgule/double-virgule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
