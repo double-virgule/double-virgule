@@ -10,7 +10,7 @@ Do you want to go:
 
 Or do you think you can find something better in the: 
 
-#### [Ocean of Way Too Many Variables](https://github.com/double-virgule/double-virgule/blob/3adeadfde45a97c3f42c3de054b7422d6ab7cac1/OceanofTooManyVariables.readme) 🌊
+#### [Ocean of Way Too Many Variables](https://github.com/double-virgule/double-virgule/blob/3adeadfde45a97c3f42c3de054b7422d6ab7cac1/OceanofTooManyVariables.md) 🌊
 
 <!--
 **double-virgule/double-virgule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
