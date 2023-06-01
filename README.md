@@ -4,7 +4,13 @@ If you've stumbled your way here, you're either very lost or very desperate. Thi
 ### Choose Your Path
 You should probably find something else to help you on your coding journey. 
 
-Do you want to go **Search in the Woods of Bad Code 🌳**? Or do you think you can find something better in the **Ocean of Way Too Many Variables 🌊**?
+Do you want to go:
+
+#### Search in the Woods of Bad Code 🌳 
+
+Or do you think you can find something better in the: 
+
+#### Ocean of Way Too Many Variables 🌊
 
 <!--
 **double-virgule/double-virgule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
