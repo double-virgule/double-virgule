@@ -10,12 +10,12 @@ You look over where they're pointing and see a small shed tucked into the scrub 
 
 Do you: 
 
-#### Break the Window 🪟
+#### Break the Window 🪟 🚧 Under construction 🚧
 
-#### Kick the Door Down 🚪
+#### Kick the Door Down 🚪 🚧 Under construction 🚧
 
-#### Pick the Lock 🔑
+#### Pick the Lock 🔑 🚧 Under construction 🚧
 
-#### Ignore the Person's Request and Keep Walking 🚶
+#### Ignore the Person's Request and Keep Walking 🚶 🚧 Under construction 🚧
 
 [Return to main page](https://github.com/double-virgule)
