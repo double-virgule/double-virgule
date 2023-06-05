@@ -1,6 +1,6 @@
 Ignoring the leaf, you continue down the path. The wind whistling through the trees unnerves you a bit, so you look around for a stick or something to carry with you. 
 
-INVENTORY
+##### INVENTORY
 1 Stick
 
 Stick in hand, you feel a bit safer (and a bit silly) and continue on your way. 
