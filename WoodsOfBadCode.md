@@ -2,6 +2,6 @@ Your footsteps are muffled as you walk along the soft loam of the forest floor. 
 
 #### [Pick up Leaf](https://github.com/double-virgule/double-virgule/blob/3282b0be816969fbeaa010331eeec24fb430e974/PickUpLeaf.md) 🍂
 
-#### [Continue Down the Path](https://github.com/double-virgule/double-virgule/blob/51d760ac59b7b31abf98213ed068abab708adcce/ContinueDownthePath.md) 🚶
+#### [Continue Down the Path](https://github.com/double-virgule/double-virgule/blob/ff2d33f7c71dc746ea6e1e3c01369927698f7207/ContinueDownthePath.md) 🚶
 
 [Return to main page](https://github.com/double-virgule)
