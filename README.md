@@ -6,7 +6,7 @@ You should probably find something else to help you on your coding journey.
 
 Do you want to go:
 
-#### [Search in the Woods of Bad Code](https://github.com/double-virgule/double-virgule/blob/fb93f561cf6377b37ebe7fd159c010e3cbc0265c/WoodsOfBadCode.md) 🌳 
+#### [Search in the Woods of Bad Code](hhttps://github.com/double-virgule/double-virgule/blob/c4fdecf775703eab1b404ac12b28c50099d47a6b/WoodsOfBadCode.md) 🌳 
 
 Or do you think you can find something better in the: 
 
