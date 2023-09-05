@@ -10,4 +10,4 @@ He plucks one of the keys from his bandolier and holds it out to you. "Teke thi 
 
 Take the key ⌨️
 
-Try to find the way back yourself 🧭
+[Try to find the way back yourself](https://github.com/double-virgule/double-virgule/blob/17f32e3f6a811a319db6f4f6c921b400651a1db1/FindWayOutOnOwn.md) 🧭
