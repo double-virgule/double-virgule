@@ -7,6 +7,6 @@ Stick in hand, you feel a bit safer (and a bit silly) and continue on your way.
 
 You walk for about half a mile, and your mind starts to wander. Suddenly, a rustling noise to your left snaps your focus back to the woods. You see a small figure, about two feet high, dashing off into the deep woods. You can hear a faint sound of something vaguely reminscent of the clacking of a keyboard, and a faint peal of laughter. 
 
-[Chase the figure into the woods ](https://github.com/double-virgule/double-virgule/blob/ae864909499d5e5711e7711ff388253d72644b01/ChaseFigure.md)🌲
+[Chase the figure into the woods ](https://github.com/double-virgule/double-virgule/blob/8b1bc87f5362d313d64108626d057593fbd066b9/ChaseFigure.md)🌲
  
 Stay on the path 🚶 🚧 Under Construction 🚧
