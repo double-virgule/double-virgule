@@ -8,7 +8,7 @@ You plod around the corner, and discover two pirates standing waist-deep in a ho
 
 You take a look at them, and notice their clothes are a patchwork of charts, graphs and data points, stitched over a cloth covered in code. The pirate notices you squinting at them and says, "What are you looking at? We're the Programming Pirates, of course our favorite language is R! Now git"
 
-Try to Fight the Pirates for the Treasure
+[Try to Fight the Pirates for the Treasure](https://github.com/double-virgule/double-virgule/blob/4284b0d953ef816056325d3a9e8158f54cc1a975/TrytoFightthePiratesfortheTreasure.md)
 
 🚧 Try to Convince the Pirates to Give You The Treasure
 
