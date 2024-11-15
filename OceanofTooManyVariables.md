@@ -16,6 +16,6 @@ Do you:
 
 #### Pick the Lock 🔑 🚧 Under construction 🚧
 
-#### Ignore the Person's Request and Keep Walking 🚶 🚧 Under construction 🚧
+#### [Ignore the Person's Request and Keep Walking](https://github.com/double-virgule/double-virgule/blob/45d1ca7fef941792101bfec1f729f5744815394b/IgnorethePersonsRequestandKeepWalking.md) 🚶
 
 [Return to main page](https://github.com/double-virgule)
